@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PHAASHT/semester7/MLOPS/project/mlruns/0/f80f1667c0724ca0937a188c307f6cd3/artifacts
+end_time: 1733683208935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80f1667c0724ca0937a188c307f6cd3
+run_name: honorable-fly-561
+run_uuid: f80f1667c0724ca0937a188c307f6cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733683184591
+status: 3
+tags: []
+user_id: DSG
