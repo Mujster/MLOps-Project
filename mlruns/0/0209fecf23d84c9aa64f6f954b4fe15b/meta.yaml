@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PHAASHT/semester7/MLOPS/project/mlruns/0/0209fecf23d84c9aa64f6f954b4fe15b/artifacts
+end_time: 1733683288318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0209fecf23d84c9aa64f6f954b4fe15b
+run_name: blushing-vole-323
+run_uuid: 0209fecf23d84c9aa64f6f954b4fe15b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733683272712
+status: 3
+tags: []
+user_id: DSG

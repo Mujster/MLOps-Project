@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733683288265
+current_stage: Staging
+description: null
+last_updated_timestamp: 1733683288350
+name: TemperaturePredictionModel
+run_id: 0209fecf23d84c9aa64f6f954b4fe15b
+run_link: null
+source: file:///E:/PHAASHT/semester7/MLOPS/project/mlruns/0/0209fecf23d84c9aa64f6f954b4fe15b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/PHAASHT/semester7/MLOPS/project/mlruns/0/0209fecf23d84c9aa64f6f954b4fe15b/artifacts/model
+user_id: null
+version: 2

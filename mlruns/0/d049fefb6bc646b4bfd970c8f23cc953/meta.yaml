@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PHAASHT/semester7/MLOPS/project/mlruns/0/d049fefb6bc646b4bfd970c8f23cc953/artifacts
+end_time: 1733683341459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d049fefb6bc646b4bfd970c8f23cc953
+run_name: popular-lamb-671
+run_uuid: d049fefb6bc646b4bfd970c8f23cc953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733683325913
+status: 3
+tags: []
+user_id: DSG

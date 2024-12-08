@@ -13,7 +13,7 @@ export default function Login({ setIsAuthenticated }) {
     setError("");
     try {
       console.log("Attempting login with:", { email });
-      const response = await axios.post("http://localhost:5000/api/auth/login", { email, password });
+      const response = await axios.post("http://localhost:3000/api/auth/login", { email, password });
       console.log("Login response:", response.data);
 
       if (response.data.token) {
