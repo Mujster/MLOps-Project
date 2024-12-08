@@ -176,4 +176,14 @@ kubectl apply -f kubernetes/service.yaml
   - **Testing**: Automated testing and Docker build.
   - **Prod**: Deployment branch.
 
+
+
+### 10. Blog
+
+Here is our detailed medium blog about this project:
+
+```bash
+https://medium.com/@junaidkhalid2001/building-a-weather-prediction-app-with-mlops-a-journey-into-dvc-mlflow-and-kubernetes-72ac35f83875
+```
+
 With this guide, you should be able to set up this project with ease. Happy coding! 🚀
